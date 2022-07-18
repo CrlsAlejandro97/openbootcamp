@@ -1,0 +1,19 @@
+{
+  "name": "openbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrlsAlejandro97/openbootcamp.git"
+  },
+  "author": "Alejandro Ocampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrlsAlejandro97/openbootcamp/issues"
+  },
+  "homepage": "https://github.com/CrlsAlejandro97/openbootcamp#readme"
+}
